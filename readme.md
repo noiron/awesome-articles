@@ -8,3 +8,4 @@
 ---
 
 - [CORS 完全手冊（一）：為什麼會發生 CORS 錯誤？](https://blog.huli.tw/2021/02/19/cors-guide-1/)
+- [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/index.html)
