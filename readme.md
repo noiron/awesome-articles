@@ -12,3 +12,5 @@
 - [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/index.html)
 
 - [Fisher–Yates Shuffle](https://bost.ocks.org/mike/shuffle/)
+
+- [Are you one of the 10% of programmers who can write a binary search?](https://reprog.wordpress.com/2010/04/19/are-you-one-of-the-10-percent/)
