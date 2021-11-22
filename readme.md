@@ -1,9 +1,8 @@
 ## 收集值得一看的文章
 
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
-
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-
+- [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/)
 
 ---
 
