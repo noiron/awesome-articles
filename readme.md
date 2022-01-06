@@ -1,4 +1,4 @@
-## 收集值得一看的文章
+# 收集值得一看的文章
 
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
@@ -15,3 +15,6 @@
 - [Are you one of the 10% of programmers who can write a binary search?](https://reprog.wordpress.com/2010/04/19/are-you-one-of-the-10-percent/)
 
 - [技术文章配图指南](https://draveness.me/sketch-and-sketch/)
+
+## Non-Technical Articles
+
